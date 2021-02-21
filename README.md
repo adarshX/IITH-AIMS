@@ -12,9 +12,12 @@
 5. **Paste the contents of `feedback_automate_AB.js` on the console and hit `Enter`**
 6. Hurray , Your feedback has been submitted (all to 'Agree' checkboxes and remark = "good" )
 
-#### Keyboard shortcuts to open the web console
+### Keyboard shortcuts to open the web console
 
 | | Google Chrome | Mozilla Firefox |
 | --- | --- | --- |
 | Windows or Linux | `Ctrl` + `Shift` + `J` | `Ctrl` + `Shift` + `K` |
 | Mac | `Cmd` + `Opt` + `J` | `Cmd` + `Opt` + `K` |
+
+### Contributors
+**Adarsh Bandi**  
