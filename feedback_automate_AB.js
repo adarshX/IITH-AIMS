@@ -2,7 +2,7 @@
     @author : Adarsh
     @namespace : aims.iith.ac.in
     @description : to automatically fill the feedback form 
-    @other_details : This script select all to 'Agree' checkboxes and remark = "good" 
+    @other_details : This script selects "Agree(A)" checkbox for all questions and remarks will be = "good" 
 */
 console.clear();
 function automate_feedback()
